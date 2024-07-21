@@ -1,0 +1,8 @@
+Symlinking /home/jetson/test_ws/devel/lib/python2.7/dist-packages/joy_racer/__init__.py
+Symlinking /home/jetson/test_ws/devel/lib/joy_racer/joy_racer
+Symlinking /home/jetson/test_ws/devel/lib/pkgconfig/joy_racer.pc
+Symlinking /home/jetson/test_ws/devel/share/joy_racer/cmake/joy_racerConfig-version.cmake
+Symlinking /home/jetson/test_ws/devel/share/joy_racer/cmake/joy_racerConfig.cmake
+Symlinking /home/jetson/test_ws/devel/share/joy_racer/cmake/joy_racer-msg-extras.cmake
+Symlinking /home/jetson/test_ws/devel/share/joy_racer/cmake/joy_racer-msg-paths.cmake
+Symlinking /home/jetson/test_ws/devel/share/roseus/ros/joy_racer/manifest.l

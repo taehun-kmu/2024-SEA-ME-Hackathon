@@ -1,0 +1,40 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _jetracer_generate_messages_check_deps_jetRacerCar[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _jetracer_generate_messages_check_deps_jetRacerCar
+[35m[1mScanning dependencies of target jetracer_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target jetracer_generate_messages_eus[0m
+[35m[1mScanning dependencies of target jetracer_generate_messages_py[0m
+[35m[1mScanning dependencies of target jetracer_generate_messages_cpp[0m
+[  8%] [34m[1mGenerating Lisp code from jetracer/jetRacerCar.msg[0m
+[ 16%] [34m[1mGenerating Python from MSG jetracer/jetRacerCar[0m
+[ 25%] [34m[1mGenerating C++ code from jetracer/jetRacerCar.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from jetracer/jetRacerCar.msg[0m
+[ 33%] Built target jetracer_generate_messages_lisp
+[ 41%] [34m[1mGenerating EusLisp manifest code for jetracer[0m
+[35m[1mScanning dependencies of target jetracer_generate_messages_nodejs[0m
+[ 50%] [34m[1mGenerating Javascript code from jetracer/jetRacerCar.msg[0m
+[ 58%] [34m[1mGenerating Python msg __init__.py for jetracer[0m
+[ 58%] Built target jetracer_generate_messages_cpp
+[ 58%] Built target jetracer_generate_messages_nodejs
+[35m[1mScanning dependencies of target jetRacer_Controller_Test[0m
+[35m[1mScanning dependencies of target jetRacer_Car[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/jetRacer_Car.dir/src/jetracer_car.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/jetRacer_Controller_Test.dir/src/jetracer_controller_test.cpp.o[0m
+[ 75%] Built target jetracer_generate_messages_py
+[ 83%] [32mBuilding CXX object CMakeFiles/jetRacer_Car.dir/src/pca9685.cpp.o[0m
+[ 83%] Built target jetracer_generate_messages_eus
+[35m[1mScanning dependencies of target jetracer_generate_messages[0m
+[ 83%] Built target jetracer_generate_messages
+[ 91%] [32m[1mLinking CXX executable /home/jetson/test_ws/devel/.private/jetracer/lib/jetracer/jetRacer_Controller_Test[0m
+[ 91%] Built target jetRacer_Controller_Test
+[100%] [32m[1mLinking CXX executable /home/jetson/test_ws/devel/.private/jetracer/lib/jetracer/jetRacer_Car[0m
+[100%] Built target jetRacer_Car

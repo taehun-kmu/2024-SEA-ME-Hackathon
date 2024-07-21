@@ -1,0 +1,8 @@
+prefix=/home/jetson/catkin_ws/install
+
+Name: jetracer_teleop
+Description: Description of jetracer_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

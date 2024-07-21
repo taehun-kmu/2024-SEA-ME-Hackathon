@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>my_teleop_pkg</name>
+  <version>0.0.0</version>
+  <description>The my_teleop_pkg package</description>
+  
+  <maintainer email="user@domain.tld">Your Name</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  
+  <export>
+  </export>
+</package>
+

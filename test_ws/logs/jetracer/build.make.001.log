@@ -1,0 +1,14 @@
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _jetracer_generate_messages_check_deps_jetRacerCar
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  8%] Built target jetracer_generate_messages_cpp
+[  8%] Built target std_msgs_generate_messages_nodejs
+[ 25%] Built target jetracer_generate_messages_eus
+[ 33%] Built target jetracer_generate_messages_lisp
+[ 50%] Built target jetracer_generate_messages_py
+[ 58%] Built target jetracer_generate_messages_nodejs
+[ 58%] Built target jetracer_generate_messages
+[ 75%] Built target jetRacer_Controller_Test
+[100%] Built target jetRacer_Car

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/rplidar_ros/install/setup.sh

@@ -1,0 +1,1 @@
+/home/jetson/test_ws/devel/.private/joy_racer/share/roseus/ros/joy_racer/manifest.l

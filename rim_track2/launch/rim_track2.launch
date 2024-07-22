@@ -1,0 +1,24 @@
+<launch>
+    <!-- Launch line detection node -->
+    <node pkg="rim_track2" type="line_detection_node.py" name="line_detection_node" output="screen"/>
+    
+    <!-- Launch obstacle detection node -->
+    <node pkg="rim_track2" type="obstacle_detection_node.py" name="obstacle_detection_node" output="screen"/>
+    
+    <!-- Launch signal detection node -->
+    <node pkg="rim_track2" type="signal_detection_node.py" name="signal_detection_node" output="screen"/>
+    
+    <!-- Launch Arduino interface node -->
+    <node pkg="rim_track2" type="arduino_interface.py" name="arduino_interface" output="screen"/>
+    
+    <!-- Launch camera calibration node -->
+    <node pkg="rim_track2" type="camera_calibration.py" name="camera_calibration_node" output="screen">
+        <param name="camera_params_file" value="$(find rim_track2)/scripts/camera_params.json"/>
+    </node>
+    
+    <!-- Launch image view node to display camera feed -->
+    <node pkg="image_view" type="image_view" name="image_view" output="screen">
+        <param name="image" value="/camera/image_raw"/>
+    </node>
+</launch>
+

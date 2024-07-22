@@ -1,0 +1,3 @@
+[submodule "jetracer"]
+	path = jetracer
+	url = https://github.com/waveshare/jetracer.git

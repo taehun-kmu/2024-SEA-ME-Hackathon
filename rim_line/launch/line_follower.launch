@@ -1,0 +1,5 @@
+<launch>
+    <node name="line_follower" pkg="rim_line" type="line_follower.py" output="screen">
+</node>
+</launch>
+

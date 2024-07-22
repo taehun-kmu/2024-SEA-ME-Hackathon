@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lane_detection_servo</name>
+  <version>0.0.1</version>
+  <description>The lane_detection_servo package</description>
+
+  <maintainer email="your-email@example.com">Your Name</maintainer>
+  <license>BSD</license>
+
+  <!-- Declare the buildtool_depend -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!-- Declare dependencies -->
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>cv_bridge</depend>
+  <depend>sensor_msgs</depend>
+
+  <!-- Export information -->
+  <export>
+    <!-- No metapackage declaration here -->
+  </export>
+</package>
+

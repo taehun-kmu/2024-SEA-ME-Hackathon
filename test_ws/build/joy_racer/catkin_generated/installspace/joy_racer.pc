@@ -1,8 +1,0 @@
-prefix=/home/jetson/test_ws/install
-
-Name: joy_racer
-Description: Description of joy_racer
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib -ljetracer
-Requires: message_runtime

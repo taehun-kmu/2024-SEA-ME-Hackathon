@@ -1,1 +1,0 @@
-/home/jetson/test_ws/devel/.private/jetracer/share/gennodejs/ros/jetracer/msg/_index.js

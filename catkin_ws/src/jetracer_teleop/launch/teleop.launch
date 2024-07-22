@@ -1,4 +1,0 @@
-<launch>
-    <node name="teleop_node" pkg="jetracer_teleop" type="teleop_node.py" output="screen"/>
-</launch>
-

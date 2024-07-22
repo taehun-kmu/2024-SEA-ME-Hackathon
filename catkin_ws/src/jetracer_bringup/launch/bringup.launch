@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="jetracer_bringup" type="cmd_vel_servo.py" name="cmd_vel_servo" output="screen"/>
-</launch>
-

@@ -1,1 +1,0 @@
-/home/jetson/test_ws/devel/.private/joy_racer/lib/pkgconfig/joy_racer.pc

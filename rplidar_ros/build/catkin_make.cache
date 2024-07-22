@@ -1,2 +1,0 @@
-rplidar_ros
--DCATKIN_DEVEL_PREFIX=/home/jetson/rplidar_ros/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/rplidar_ros/install -G Unix Makefiles

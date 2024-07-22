@@ -1,4 +1,0 @@
-<launch>
-  <node name="line_tracing_node" pkg="my_line_tracing_pkg" type="line_tracing_node.py" output="screen" />
-</launch>
-

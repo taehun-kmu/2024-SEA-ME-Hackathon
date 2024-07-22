@@ -1,8 +1,0 @@
-prefix=/home/jetson/test_ws/devel/.private/jetracer
-
-Name: jetracer
-Description: Description of jetracer
-Version: 0.0.0
-Cflags: -I/home/jetson/test_ws/devel/.private/jetracer/include -I/home/jetson/test_ws/src/jetRacerROSpkg/jetracer/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime

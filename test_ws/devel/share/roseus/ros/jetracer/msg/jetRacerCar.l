@@ -1,1 +1,0 @@
-/home/jetson/test_ws/devel/.private/jetracer/share/roseus/ros/jetracer/msg/jetRacerCar.l
